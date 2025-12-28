@@ -1,0 +1,936 @@
+{
+    "kitab_id": "safinatun-najah",
+    "kitab_name": "سَفِينَةُ النَّجَاة",
+    "kitab_name_id": "Safinatun Najah",
+    "author": "Syekh Salim bin Sumair Al-Hadhrami",
+    "chapters": [
+        {
+            "chapter_id": "1",
+            "chapter_title": "أَرْكَانُ الْإِسْلَامِ وَالْإِيمَانِ",
+            "chapter_title_id": "Rukun Islam dan Iman",
+            "paragraphs": [
+                {
+                    "paragraph_id": "1-1",
+                    "text_with_harakat": "أَرْكَانُ الْإِسْلَامِ خَمْسَةٌ",
+                    "text_without_harakat": "اركان الاسلام خمسة",
+                    "translation": "Rukun Islam ada lima",
+                    "words": [
+                        {
+                            "word_id": "1-1-1",
+                            "arabic": "أَرْكَانُ",
+                            "arabic_plain": "اركان",
+                            "translation": "rukun-rukun",
+                            "root": "ر-ك-ن",
+                            "category": "ism",
+                            "subcategory": "ism_jamak",
+                            "irab": {
+                                "position": "مُبْتَدَأ",
+                                "position_id": "Mubtada",
+                                "case": "مَرْفُوع",
+                                "case_id": "Marfu'",
+                                "sign": "ضَمَّة",
+                                "sign_id": "Dhammah",
+                                "explanation": "Mubtada, marfu' dengan dhammah karena isim mufrad"
+                            }
+                        },
+                        {
+                            "word_id": "1-1-2",
+                            "arabic": "الْإِسْلَامِ",
+                            "arabic_plain": "الاسلام",
+                            "translation": "Islam",
+                            "root": "س-ل-م",
+                            "category": "ism",
+                            "subcategory": "ism_ma'rifah",
+                            "irab": {
+                                "position": "مُضَافٌ إِلَيْهِ",
+                                "position_id": "Mudhaf Ilaih",
+                                "case": "مَجْرُور",
+                                "case_id": "Majrur",
+                                "sign": "كَسْرَة",
+                                "sign_id": "Kasrah",
+                                "explanation": "Mudhaf ilaih, majrur dengan kasrah"
+                            }
+                        },
+                        {
+                            "word_id": "1-1-3",
+                            "arabic": "خَمْسَةٌ",
+                            "arabic_plain": "خمسة",
+                            "translation": "lima",
+                            "root": "خ-م-س",
+                            "category": "ism",
+                            "subcategory": "ism_adad",
+                            "irab": {
+                                "position": "خَبَر",
+                                "position_id": "Khabar",
+                                "case": "مَرْفُوع",
+                                "case_id": "Marfu'",
+                                "sign": "ضَمَّة",
+                                "sign_id": "Dhammah",
+                                "explanation": "Khabar dari mubtada 'arkanul islam', marfu' dengan dhammah"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "paragraph_id": "1-2",
+                    "text_with_harakat": "شَهَادَةُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ",
+                    "text_without_harakat": "شهادة ان لا اله الا الله وان محمدا رسول الله",
+                    "translation": "Bersaksi bahwa tiada Tuhan selain Allah dan bahwa Muhammad adalah utusan Allah",
+                    "words": [
+                        {
+                            "word_id": "1-2-1",
+                            "arabic": "شَهَادَةُ",
+                            "arabic_plain": "شهادة",
+                            "translation": "kesaksian",
+                            "root": "ش-ه-د",
+                            "category": "ism",
+                            "subcategory": "mashdar",
+                            "irab": {
+                                "position": "خَبَر",
+                                "position_id": "Khabar/Badal",
+                                "case": "مَرْفُوع",
+                                "case_id": "Marfu'",
+                                "sign": "ضَمَّة",
+                                "sign_id": "Dhammah",
+                                "explanation": "Khabar atau badal dari 'khamsatun', marfu'"
+                            }
+                        },
+                        {
+                            "word_id": "1-2-2",
+                            "arabic": "أَنْ",
+                            "arabic_plain": "ان",
+                            "translation": "bahwa",
+                            "root": "-",
+                            "category": "harf",
+                            "subcategory": "harf_mashdariyah",
+                            "irab": {
+                                "position": "حَرْف",
+                                "position_id": "Huruf",
+                                "case": "-",
+                                "case_id": "-",
+                                "sign": "-",
+                                "sign_id": "-",
+                                "explanation": "Huruf mashdariyah, tidak memiliki i'rab"
+                            }
+                        },
+                        {
+                            "word_id": "1-2-3",
+                            "arabic": "لَا",
+                            "arabic_plain": "لا",
+                            "translation": "tidak/tiada",
+                            "root": "-",
+                            "category": "harf",
+                            "subcategory": "harf_nafi",
+                            "irab": {
+                                "position": "لَا النَّافِيَة لِلْجِنْس",
+                                "position_id": "La Nafiyah lil Jins",
+                                "case": "-",
+                                "case_id": "-",
+                                "sign": "-",
+                                "sign_id": "-",
+                                "explanation": "La nafiyah lil jins (meniadakan seluruh jenis)"
+                            }
+                        },
+                        {
+                            "word_id": "1-2-4",
+                            "arabic": "إِلَهَ",
+                            "arabic_plain": "اله",
+                            "translation": "tuhan",
+                            "root": "أ-ل-ه",
+                            "category": "ism",
+                            "subcategory": "ism_mufrad",
+                            "irab": {
+                                "position": "اِسْم لَا",
+                                "position_id": "Ism La",
+                                "case": "مَنْصُوب",
+                                "case_id": "Manshub",
+                                "sign": "فَتْحَة",
+                                "sign_id": "Fathah",
+                                "explanation": "Ism 'la nafiyah lil jins', manshub dengan fathah"
+                            }
+                        },
+                        {
+                            "word_id": "1-2-5",
+                            "arabic": "إِلَّا",
+                            "arabic_plain": "الا",
+                            "translation": "kecuali",
+                            "root": "-",
+                            "category": "harf",
+                            "subcategory": "harf_istitsna",
+                            "irab": {
+                                "position": "حَرْف اِسْتِثْنَاء",
+                                "position_id": "Huruf Istitsna",
+                                "case": "-",
+                                "case_id": "-",
+                                "sign": "-",
+                                "sign_id": "-",
+                                "explanation": "Huruf istitsna (pengecualian)"
+                            }
+                        },
+                        {
+                            "word_id": "1-2-6",
+                            "arabic": "اللَّهُ",
+                            "arabic_plain": "الله",
+                            "translation": "Allah",
+                            "root": "أ-ل-ه",
+                            "category": "ism",
+                            "subcategory": "ism_alam",
+                            "irab": {
+                                "position": "بَدَل",
+                                "position_id": "Badal",
+                                "case": "مَرْفُوع",
+                                "case_id": "Marfu'",
+                                "sign": "ضَمَّة",
+                                "sign_id": "Dhammah",
+                                "explanation": "Badal dari yang dikecualikan (mustatsnaa), marfu'"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "paragraph_id": "1-3",
+                    "text_with_harakat": "وَإِقَامُ الصَّلَاةِ",
+                    "text_without_harakat": "واقام الصلاة",
+                    "translation": "Dan mendirikan sholat",
+                    "words": [
+                        {
+                            "word_id": "1-3-1",
+                            "arabic": "وَ",
+                            "arabic_plain": "و",
+                            "translation": "dan",
+                            "root": "-",
+                            "category": "harf",
+                            "subcategory": "harf_athaf",
+                            "irab": {
+                                "position": "حَرْف عَطْف",
+                                "position_id": "Huruf Athaf",
+                                "case": "-",
+                                "case_id": "-",
+                                "sign": "-",
+                                "sign_id": "-",
+                                "explanation": "Huruf athaf (penghubung)"
+                            }
+                        },
+                        {
+                            "word_id": "1-3-2",
+                            "arabic": "إِقَامُ",
+                            "arabic_plain": "اقام",
+                            "translation": "mendirikan",
+                            "root": "ق-و-م",
+                            "category": "ism",
+                            "subcategory": "mashdar",
+                            "irab": {
+                                "position": "مَعْطُوف",
+                                "position_id": "Ma'thuf",
+                                "case": "مَرْفُوع",
+                                "case_id": "Marfu'",
+                                "sign": "ضَمَّة",
+                                "sign_id": "Dhammah",
+                                "explanation": "Ma'thuf kepada 'syahadatu', marfu'"
+                            }
+                        },
+                        {
+                            "word_id": "1-3-3",
+                            "arabic": "الصَّلَاةِ",
+                            "arabic_plain": "الصلاة",
+                            "translation": "sholat",
+                            "root": "ص-ل-و",
+                            "category": "ism",
+                            "subcategory": "ism_ma'rifah",
+                            "irab": {
+                                "position": "مُضَافٌ إِلَيْهِ",
+                                "position_id": "Mudhaf Ilaih",
+                                "case": "مَجْرُور",
+                                "case_id": "Majrur",
+                                "sign": "كَسْرَة",
+                                "sign_id": "Kasrah",
+                                "explanation": "Mudhaf ilaih, majrur dengan kasrah"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "paragraph_id": "1-4",
+                    "text_with_harakat": "وَإِيتَاءُ الزَّكَاةِ",
+                    "text_without_harakat": "وايتاء الزكاة",
+                    "translation": "Dan menunaikan zakat",
+                    "words": [
+                        {
+                            "word_id": "1-4-1",
+                            "arabic": "وَ",
+                            "arabic_plain": "و",
+                            "translation": "dan",
+                            "root": "-",
+                            "category": "harf",
+                            "subcategory": "harf_athaf",
+                            "irab": {
+                                "position": "حَرْف عَطْف",
+                                "position_id": "Huruf Athaf",
+                                "case": "-",
+                                "case_id": "-",
+                                "sign": "-",
+                                "sign_id": "-",
+                                "explanation": "Huruf athaf"
+                            }
+                        },
+                        {
+                            "word_id": "1-4-2",
+                            "arabic": "إِيتَاءُ",
+                            "arabic_plain": "ايتاء",
+                            "translation": "menunaikan",
+                            "root": "أ-ت-ي",
+                            "category": "ism",
+                            "subcategory": "mashdar",
+                            "irab": {
+                                "position": "مَعْطُوف",
+                                "position_id": "Ma'thuf",
+                                "case": "مَرْفُوع",
+                                "case_id": "Marfu'",
+                                "sign": "ضَمَّة",
+                                "sign_id": "Dhammah",
+                                "explanation": "Ma'thuf, marfu'"
+                            }
+                        },
+                        {
+                            "word_id": "1-4-3",
+                            "arabic": "الزَّكَاةِ",
+                            "arabic_plain": "الزكاة",
+                            "translation": "zakat",
+                            "root": "ز-ك-و",
+                            "category": "ism",
+                            "subcategory": "ism_ma'rifah",
+                            "irab": {
+                                "position": "مُضَافٌ إِلَيْهِ",
+                                "position_id": "Mudhaf Ilaih",
+                                "case": "مَجْرُور",
+                                "case_id": "Majrur",
+                                "sign": "كَسْرَة",
+                                "sign_id": "Kasrah",
+                                "explanation": "Mudhaf ilaih, majrur dengan kasrah"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "paragraph_id": "1-5",
+                    "text_with_harakat": "وَصَوْمُ رَمَضَانَ",
+                    "text_without_harakat": "وصوم رمضان",
+                    "translation": "Dan puasa Ramadhan",
+                    "words": [
+                        {
+                            "word_id": "1-5-1",
+                            "arabic": "وَ",
+                            "arabic_plain": "و",
+                            "translation": "dan",
+                            "root": "-",
+                            "category": "harf",
+                            "subcategory": "harf_athaf",
+                            "irab": {
+                                "position": "حَرْف عَطْف",
+                                "position_id": "Huruf Athaf",
+                                "case": "-",
+                                "case_id": "-",
+                                "sign": "-",
+                                "sign_id": "-",
+                                "explanation": "Huruf athaf"
+                            }
+                        },
+                        {
+                            "word_id": "1-5-2",
+                            "arabic": "صَوْمُ",
+                            "arabic_plain": "صوم",
+                            "translation": "puasa",
+                            "root": "ص-و-م",
+                            "category": "ism",
+                            "subcategory": "mashdar",
+                            "irab": {
+                                "position": "مَعْطُوف",
+                                "position_id": "Ma'thuf",
+                                "case": "مَرْفُوع",
+                                "case_id": "Marfu'",
+                                "sign": "ضَمَّة",
+                                "sign_id": "Dhammah",
+                                "explanation": "Ma'thuf, marfu'"
+                            }
+                        },
+                        {
+                            "word_id": "1-5-3",
+                            "arabic": "رَمَضَانَ",
+                            "arabic_plain": "رمضان",
+                            "translation": "Ramadhan",
+                            "root": "ر-م-ض",
+                            "category": "ism",
+                            "subcategory": "ism_alam",
+                            "irab": {
+                                "position": "مُضَافٌ إِلَيْهِ",
+                                "position_id": "Mudhaf Ilaih",
+                                "case": "مَجْرُور",
+                                "case_id": "Majrur",
+                                "sign": "فَتْحَة",
+                                "sign_id": "Fathah",
+                                "explanation": "Mudhaf ilaih, majrur dengan fathah karena mamnu' minash sharf"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "paragraph_id": "1-6",
+                    "text_with_harakat": "وَحَجُّ الْبَيْتِ",
+                    "text_without_harakat": "وحج البيت",
+                    "translation": "Dan haji ke Baitullah",
+                    "words": [
+                        {
+                            "word_id": "1-6-1",
+                            "arabic": "وَ",
+                            "arabic_plain": "و",
+                            "translation": "dan",
+                            "root": "-",
+                            "category": "harf",
+                            "subcategory": "harf_athaf",
+                            "irab": {
+                                "position": "حَرْف عَطْف",
+                                "position_id": "Huruf Athaf",
+                                "case": "-",
+                                "case_id": "-",
+                                "sign": "-",
+                                "sign_id": "-",
+                                "explanation": "Huruf athaf"
+                            }
+                        },
+                        {
+                            "word_id": "1-6-2",
+                            "arabic": "حَجُّ",
+                            "arabic_plain": "حج",
+                            "translation": "haji",
+                            "root": "ح-ج-ج",
+                            "category": "ism",
+                            "subcategory": "mashdar",
+                            "irab": {
+                                "position": "مَعْطُوف",
+                                "position_id": "Ma'thuf",
+                                "case": "مَرْفُوع",
+                                "case_id": "Marfu'",
+                                "sign": "ضَمَّة",
+                                "sign_id": "Dhammah",
+                                "explanation": "Ma'thuf, marfu'"
+                            }
+                        },
+                        {
+                            "word_id": "1-6-3",
+                            "arabic": "الْبَيْتِ",
+                            "arabic_plain": "البيت",
+                            "translation": "rumah (Ka'bah)",
+                            "root": "ب-ي-ت",
+                            "category": "ism",
+                            "subcategory": "ism_ma'rifah",
+                            "irab": {
+                                "position": "مُضَافٌ إِلَيْهِ",
+                                "position_id": "Mudhaf Ilaih",
+                                "case": "مَجْرُور",
+                                "case_id": "Majrur",
+                                "sign": "كَسْرَة",
+                                "sign_id": "Kasrah",
+                                "explanation": "Mudhaf ilaih, majrur dengan kasrah"
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "chapter_id": "2",
+            "chapter_title": "أَرْكَانُ الْإِيمَانِ",
+            "chapter_title_id": "Rukun Iman",
+            "paragraphs": [
+                {
+                    "paragraph_id": "2-1",
+                    "text_with_harakat": "أَرْكَانُ الْإِيمَانِ سِتَّةٌ",
+                    "text_without_harakat": "اركان الايمان ستة",
+                    "translation": "Rukun Iman ada enam",
+                    "words": [
+                        {
+                            "word_id": "2-1-1",
+                            "arabic": "أَرْكَانُ",
+                            "arabic_plain": "اركان",
+                            "translation": "rukun-rukun",
+                            "root": "ر-ك-ن",
+                            "category": "ism",
+                            "subcategory": "ism_jamak",
+                            "irab": {
+                                "position": "مُبْتَدَأ",
+                                "position_id": "Mubtada",
+                                "case": "مَرْفُوع",
+                                "case_id": "Marfu'",
+                                "sign": "ضَمَّة",
+                                "sign_id": "Dhammah",
+                                "explanation": "Mubtada, marfu' dengan dhammah"
+                            }
+                        },
+                        {
+                            "word_id": "2-1-2",
+                            "arabic": "الْإِيمَانِ",
+                            "arabic_plain": "الايمان",
+                            "translation": "iman",
+                            "root": "أ-م-ن",
+                            "category": "ism",
+                            "subcategory": "mashdar",
+                            "irab": {
+                                "position": "مُضَافٌ إِلَيْهِ",
+                                "position_id": "Mudhaf Ilaih",
+                                "case": "مَجْرُور",
+                                "case_id": "Majrur",
+                                "sign": "كَسْرَة",
+                                "sign_id": "Kasrah",
+                                "explanation": "Mudhaf ilaih, majrur dengan kasrah"
+                            }
+                        },
+                        {
+                            "word_id": "2-1-3",
+                            "arabic": "سِتَّةٌ",
+                            "arabic_plain": "ستة",
+                            "translation": "enam",
+                            "root": "س-ت-ت",
+                            "category": "ism",
+                            "subcategory": "ism_adad",
+                            "irab": {
+                                "position": "خَبَر",
+                                "position_id": "Khabar",
+                                "case": "مَرْفُوع",
+                                "case_id": "Marfu'",
+                                "sign": "ضَمَّة",
+                                "sign_id": "Dhammah",
+                                "explanation": "Khabar, marfu' dengan dhammah"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "paragraph_id": "2-2",
+                    "text_with_harakat": "أَنْ تُؤْمِنَ بِاللَّهِ",
+                    "text_without_harakat": "ان تؤمن بالله",
+                    "translation": "Beriman kepada Allah",
+                    "words": [
+                        {
+                            "word_id": "2-2-1",
+                            "arabic": "أَنْ",
+                            "arabic_plain": "ان",
+                            "translation": "bahwa",
+                            "root": "-",
+                            "category": "harf",
+                            "subcategory": "harf_mashdariyah",
+                            "irab": {
+                                "position": "حَرْف مَصْدَرِيّ",
+                                "position_id": "Huruf Mashdariyah",
+                                "case": "-",
+                                "case_id": "-",
+                                "sign": "-",
+                                "sign_id": "-",
+                                "explanation": "Huruf mashdariyah yang menashabkan fi'il mudhari'"
+                            }
+                        },
+                        {
+                            "word_id": "2-2-2",
+                            "arabic": "تُؤْمِنَ",
+                            "arabic_plain": "تؤمن",
+                            "translation": "kamu beriman",
+                            "root": "أ-م-ن",
+                            "category": "fiil",
+                            "subcategory": "fiil_mudhari",
+                            "irab": {
+                                "position": "فِعْل مُضَارِع",
+                                "position_id": "Fi'il Mudhari'",
+                                "case": "مَنْصُوب",
+                                "case_id": "Manshub",
+                                "sign": "فَتْحَة",
+                                "sign_id": "Fathah",
+                                "explanation": "Fi'il mudhari' manshub dengan fathah karena didahului 'an'"
+                            }
+                        },
+                        {
+                            "word_id": "2-2-3",
+                            "arabic": "بِ",
+                            "arabic_plain": "ب",
+                            "translation": "kepada",
+                            "root": "-",
+                            "category": "harf",
+                            "subcategory": "harf_jar",
+                            "irab": {
+                                "position": "حَرْف جَرّ",
+                                "position_id": "Huruf Jar",
+                                "case": "-",
+                                "case_id": "-",
+                                "sign": "-",
+                                "sign_id": "-",
+                                "explanation": "Huruf jar"
+                            }
+                        },
+                        {
+                            "word_id": "2-2-4",
+                            "arabic": "اللَّهِ",
+                            "arabic_plain": "الله",
+                            "translation": "Allah",
+                            "root": "أ-ل-ه",
+                            "category": "ism",
+                            "subcategory": "ism_alam",
+                            "irab": {
+                                "position": "مَجْرُور",
+                                "position_id": "Majrur",
+                                "case": "مَجْرُور",
+                                "case_id": "Majrur",
+                                "sign": "كَسْرَة",
+                                "sign_id": "Kasrah",
+                                "explanation": "Majrur dengan kasrah karena didahului huruf jar 'bi'"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "paragraph_id": "2-3",
+                    "text_with_harakat": "وَمَلَائِكَتِهِ",
+                    "text_without_harakat": "وملائكته",
+                    "translation": "Dan malaikat-malaikat-Nya",
+                    "words": [
+                        {
+                            "word_id": "2-3-1",
+                            "arabic": "وَ",
+                            "arabic_plain": "و",
+                            "translation": "dan",
+                            "root": "-",
+                            "category": "harf",
+                            "subcategory": "harf_athaf",
+                            "irab": {
+                                "position": "حَرْف عَطْف",
+                                "position_id": "Huruf Athaf",
+                                "case": "-",
+                                "case_id": "-",
+                                "sign": "-",
+                                "sign_id": "-",
+                                "explanation": "Huruf athaf"
+                            }
+                        },
+                        {
+                            "word_id": "2-3-2",
+                            "arabic": "مَلَائِكَتِهِ",
+                            "arabic_plain": "ملائكته",
+                            "translation": "malaikat-malaikat-Nya",
+                            "root": "م-ل-ك",
+                            "category": "ism",
+                            "subcategory": "ism_jamak",
+                            "irab": {
+                                "position": "مَعْطُوف",
+                                "position_id": "Ma'thuf",
+                                "case": "مَجْرُور",
+                                "case_id": "Majrur",
+                                "sign": "كَسْرَة",
+                                "sign_id": "Kasrah",
+                                "explanation": "Ma'thuf kepada lafadz jalalah, majrur"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "paragraph_id": "2-4",
+                    "text_with_harakat": "وَكُتُبِهِ",
+                    "text_without_harakat": "وكتبه",
+                    "translation": "Dan kitab-kitab-Nya",
+                    "words": [
+                        {
+                            "word_id": "2-4-1",
+                            "arabic": "وَ",
+                            "arabic_plain": "و",
+                            "translation": "dan",
+                            "root": "-",
+                            "category": "harf",
+                            "subcategory": "harf_athaf",
+                            "irab": {
+                                "position": "حَرْف عَطْف",
+                                "position_id": "Huruf Athaf",
+                                "case": "-",
+                                "case_id": "-",
+                                "sign": "-",
+                                "sign_id": "-",
+                                "explanation": "Huruf athaf"
+                            }
+                        },
+                        {
+                            "word_id": "2-4-2",
+                            "arabic": "كُتُبِهِ",
+                            "arabic_plain": "كتبه",
+                            "translation": "kitab-kitab-Nya",
+                            "root": "ك-ت-ب",
+                            "category": "ism",
+                            "subcategory": "ism_jamak",
+                            "irab": {
+                                "position": "مَعْطُوف",
+                                "position_id": "Ma'thuf",
+                                "case": "مَجْرُور",
+                                "case_id": "Majrur",
+                                "sign": "كَسْرَة",
+                                "sign_id": "Kasrah",
+                                "explanation": "Ma'thuf, majrur"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "paragraph_id": "2-5",
+                    "text_with_harakat": "وَرُسُلِهِ",
+                    "text_without_harakat": "ورسله",
+                    "translation": "Dan rasul-rasul-Nya",
+                    "words": [
+                        {
+                            "word_id": "2-5-1",
+                            "arabic": "وَ",
+                            "arabic_plain": "و",
+                            "translation": "dan",
+                            "root": "-",
+                            "category": "harf",
+                            "subcategory": "harf_athaf",
+                            "irab": {
+                                "position": "حَرْف عَطْف",
+                                "position_id": "Huruf Athaf",
+                                "case": "-",
+                                "case_id": "-",
+                                "sign": "-",
+                                "sign_id": "-",
+                                "explanation": "Huruf athaf"
+                            }
+                        },
+                        {
+                            "word_id": "2-5-2",
+                            "arabic": "رُسُلِهِ",
+                            "arabic_plain": "رسله",
+                            "translation": "rasul-rasul-Nya",
+                            "root": "ر-س-ل",
+                            "category": "ism",
+                            "subcategory": "ism_jamak",
+                            "irab": {
+                                "position": "مَعْطُوف",
+                                "position_id": "Ma'thuf",
+                                "case": "مَجْرُور",
+                                "case_id": "Majrur",
+                                "sign": "كَسْرَة",
+                                "sign_id": "Kasrah",
+                                "explanation": "Ma'thuf, majrur"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "paragraph_id": "2-6",
+                    "text_with_harakat": "وَالْيَوْمِ الْآخِرِ",
+                    "text_without_harakat": "واليوم الاخر",
+                    "translation": "Dan hari akhir",
+                    "words": [
+                        {
+                            "word_id": "2-6-1",
+                            "arabic": "وَ",
+                            "arabic_plain": "و",
+                            "translation": "dan",
+                            "root": "-",
+                            "category": "harf",
+                            "subcategory": "harf_athaf",
+                            "irab": {
+                                "position": "حَرْف عَطْف",
+                                "position_id": "Huruf Athaf",
+                                "case": "-",
+                                "case_id": "-",
+                                "sign": "-",
+                                "sign_id": "-",
+                                "explanation": "Huruf athaf"
+                            }
+                        },
+                        {
+                            "word_id": "2-6-2",
+                            "arabic": "الْيَوْمِ",
+                            "arabic_plain": "اليوم",
+                            "translation": "hari",
+                            "root": "ي-و-م",
+                            "category": "ism",
+                            "subcategory": "ism_ma'rifah",
+                            "irab": {
+                                "position": "مَعْطُوف",
+                                "position_id": "Ma'thuf",
+                                "case": "مَجْرُور",
+                                "case_id": "Majrur",
+                                "sign": "كَسْرَة",
+                                "sign_id": "Kasrah",
+                                "explanation": "Ma'thuf, majrur"
+                            }
+                        },
+                        {
+                            "word_id": "2-6-3",
+                            "arabic": "الْآخِرِ",
+                            "arabic_plain": "الاخر",
+                            "translation": "akhir/akhirat",
+                            "root": "أ-خ-ر",
+                            "category": "ism",
+                            "subcategory": "ism_sifat",
+                            "irab": {
+                                "position": "نَعْت",
+                                "position_id": "Na'at/Sifat",
+                                "case": "مَجْرُور",
+                                "case_id": "Majrur",
+                                "sign": "كَسْرَة",
+                                "sign_id": "Kasrah",
+                                "explanation": "Na'at (sifat) dari 'al-yaum', majrur mengikuti man'ut"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "paragraph_id": "2-7",
+                    "text_with_harakat": "وَبِالْقَدَرِ خَيْرِهِ وَشَرِّهِ مِنَ اللَّهِ تَعَالَى",
+                    "text_without_harakat": "وبالقدر خيره وشره من الله تعالى",
+                    "translation": "Dan beriman kepada takdir baik dan buruknya dari Allah Ta'ala",
+                    "words": [
+                        {
+                            "word_id": "2-7-1",
+                            "arabic": "وَ",
+                            "arabic_plain": "و",
+                            "translation": "dan",
+                            "root": "-",
+                            "category": "harf",
+                            "subcategory": "harf_athaf",
+                            "irab": {
+                                "position": "حَرْف عَطْف",
+                                "position_id": "Huruf Athaf",
+                                "case": "-",
+                                "case_id": "-",
+                                "sign": "-",
+                                "sign_id": "-",
+                                "explanation": "Huruf athaf"
+                            }
+                        },
+                        {
+                            "word_id": "2-7-2",
+                            "arabic": "بِ",
+                            "arabic_plain": "ب",
+                            "translation": "kepada",
+                            "root": "-",
+                            "category": "harf",
+                            "subcategory": "harf_jar",
+                            "irab": {
+                                "position": "حَرْف جَرّ",
+                                "position_id": "Huruf Jar",
+                                "case": "-",
+                                "case_id": "-",
+                                "sign": "-",
+                                "sign_id": "-",
+                                "explanation": "Huruf jar"
+                            }
+                        },
+                        {
+                            "word_id": "2-7-3",
+                            "arabic": "الْقَدَرِ",
+                            "arabic_plain": "القدر",
+                            "translation": "takdir",
+                            "root": "ق-د-ر",
+                            "category": "ism",
+                            "subcategory": "mashdar",
+                            "irab": {
+                                "position": "مَجْرُور",
+                                "position_id": "Majrur",
+                                "case": "مَجْرُور",
+                                "case_id": "Majrur",
+                                "sign": "كَسْرَة",
+                                "sign_id": "Kasrah",
+                                "explanation": "Majrur karena huruf jar 'bi'"
+                            }
+                        },
+                        {
+                            "word_id": "2-7-4",
+                            "arabic": "خَيْرِهِ",
+                            "arabic_plain": "خيره",
+                            "translation": "kebaikannya",
+                            "root": "خ-ي-ر",
+                            "category": "ism",
+                            "subcategory": "ism_mufrad",
+                            "irab": {
+                                "position": "بَدَل",
+                                "position_id": "Badal",
+                                "case": "مَجْرُور",
+                                "case_id": "Majrur",
+                                "sign": "كَسْرَة",
+                                "sign_id": "Kasrah",
+                                "explanation": "Badal dari 'al-qadar', majrur"
+                            }
+                        },
+                        {
+                            "word_id": "2-7-5",
+                            "arabic": "وَشَرِّهِ",
+                            "arabic_plain": "وشره",
+                            "translation": "dan keburukannya",
+                            "root": "ش-ر-ر",
+                            "category": "ism",
+                            "subcategory": "ism_mufrad",
+                            "irab": {
+                                "position": "مَعْطُوف",
+                                "position_id": "Ma'thuf",
+                                "case": "مَجْرُور",
+                                "case_id": "Majrur",
+                                "sign": "كَسْرَة",
+                                "sign_id": "Kasrah",
+                                "explanation": "Ma'thuf kepada 'khairihi', majrur"
+                            }
+                        },
+                        {
+                            "word_id": "2-7-6",
+                            "arabic": "مِنَ",
+                            "arabic_plain": "من",
+                            "translation": "dari",
+                            "root": "-",
+                            "category": "harf",
+                            "subcategory": "harf_jar",
+                            "irab": {
+                                "position": "حَرْف جَرّ",
+                                "position_id": "Huruf Jar",
+                                "case": "-",
+                                "case_id": "-",
+                                "sign": "-",
+                                "sign_id": "-",
+                                "explanation": "Huruf jar"
+                            }
+                        },
+                        {
+                            "word_id": "2-7-7",
+                            "arabic": "اللَّهِ",
+                            "arabic_plain": "الله",
+                            "translation": "Allah",
+                            "root": "أ-ل-ه",
+                            "category": "ism",
+                            "subcategory": "ism_alam",
+                            "irab": {
+                                "position": "مَجْرُور",
+                                "position_id": "Majrur",
+                                "case": "مَجْرُور",
+                                "case_id": "Majrur",
+                                "sign": "كَسْرَة",
+                                "sign_id": "Kasrah",
+                                "explanation": "Majrur karena huruf jar 'min'"
+                            }
+                        },
+                        {
+                            "word_id": "2-7-8",
+                            "arabic": "تَعَالَى",
+                            "arabic_plain": "تعالى",
+                            "translation": "Yang Maha Tinggi",
+                            "root": "ع-ل-و",
+                            "category": "fiil",
+                            "subcategory": "fiil_madhi",
+                            "irab": {
+                                "position": "فِعْل مَاضٍ",
+                                "position_id": "Fi'il Madhi",
+                                "case": "مَبْنِيّ",
+                                "case_id": "Mabni",
+                                "sign": "فَتْحَة مُقَدَّرَة",
+                                "sign_id": "Fathah Muqaddarah",
+                                "explanation": "Fi'il madhi, mabni 'ala fathah muqaddarah"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

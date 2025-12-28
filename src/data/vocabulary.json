@@ -1,0 +1,302 @@
+[
+    {
+        "word_id": "v-001",
+        "arabic": "أَرْكَانُ",
+        "arabic_plain": "اركان",
+        "translation": "rukun-rukun",
+        "root": "ر-ك-ن",
+        "category": "ism",
+        "subcategory": "ism_jamak",
+        "source": "safinatun_najah_1"
+    },
+    {
+        "word_id": "v-002",
+        "arabic": "الْإِسْلَامِ",
+        "arabic_plain": "الاسلام",
+        "translation": "Islam",
+        "root": "س-ل-م",
+        "category": "ism",
+        "subcategory": "ism_ma'rifah",
+        "source": "safinatun_najah_1"
+    },
+    {
+        "word_id": "v-003",
+        "arabic": "خَمْسَةٌ",
+        "arabic_plain": "خمسة",
+        "translation": "lima",
+        "root": "خ-م-س",
+        "category": "ism",
+        "subcategory": "ism_adad",
+        "source": "safinatun_najah_1"
+    },
+    {
+        "word_id": "v-004",
+        "arabic": "شَهَادَةُ",
+        "arabic_plain": "شهادة",
+        "translation": "kesaksian",
+        "root": "ش-ه-د",
+        "category": "ism",
+        "subcategory": "mashdar",
+        "source": "safinatun_najah_1"
+    },
+    {
+        "word_id": "v-005",
+        "arabic": "إِلَهَ",
+        "arabic_plain": "اله",
+        "translation": "tuhan",
+        "root": "أ-ل-ه",
+        "category": "ism",
+        "subcategory": "ism_mufrad",
+        "source": "safinatun_najah_1"
+    },
+    {
+        "word_id": "v-006",
+        "arabic": "اللَّهُ",
+        "arabic_plain": "الله",
+        "translation": "Allah",
+        "root": "أ-ل-ه",
+        "category": "ism",
+        "subcategory": "ism_alam",
+        "source": "safinatun_najah_1"
+    },
+    {
+        "word_id": "v-007",
+        "arabic": "الصَّلَاةِ",
+        "arabic_plain": "الصلاة",
+        "translation": "sholat",
+        "root": "ص-ل-و",
+        "category": "ism",
+        "subcategory": "ism_ma'rifah",
+        "source": "safinatun_najah_1"
+    },
+    {
+        "word_id": "v-008",
+        "arabic": "الزَّكَاةِ",
+        "arabic_plain": "الزكاة",
+        "translation": "zakat",
+        "root": "ز-ك-و",
+        "category": "ism",
+        "subcategory": "ism_ma'rifah",
+        "source": "safinatun_najah_1"
+    },
+    {
+        "word_id": "v-009",
+        "arabic": "صَوْمُ",
+        "arabic_plain": "صوم",
+        "translation": "puasa",
+        "root": "ص-و-م",
+        "category": "ism",
+        "subcategory": "mashdar",
+        "source": "safinatun_najah_1"
+    },
+    {
+        "word_id": "v-010",
+        "arabic": "رَمَضَانَ",
+        "arabic_plain": "رمضان",
+        "translation": "Ramadhan",
+        "root": "ر-م-ض",
+        "category": "ism",
+        "subcategory": "ism_alam",
+        "source": "safinatun_najah_1"
+    },
+    {
+        "word_id": "v-011",
+        "arabic": "حَجُّ",
+        "arabic_plain": "حج",
+        "translation": "haji",
+        "root": "ح-ج-ج",
+        "category": "ism",
+        "subcategory": "mashdar",
+        "source": "safinatun_najah_1"
+    },
+    {
+        "word_id": "v-012",
+        "arabic": "الْبَيْتِ",
+        "arabic_plain": "البيت",
+        "translation": "rumah (Ka'bah)",
+        "root": "ب-ي-ت",
+        "category": "ism",
+        "subcategory": "ism_ma'rifah",
+        "source": "safinatun_najah_1"
+    },
+    {
+        "word_id": "v-013",
+        "arabic": "الْإِيمَانِ",
+        "arabic_plain": "الايمان",
+        "translation": "iman/keimanan",
+        "root": "أ-م-ن",
+        "category": "ism",
+        "subcategory": "mashdar",
+        "source": "safinatun_najah_2"
+    },
+    {
+        "word_id": "v-014",
+        "arabic": "سِتَّةٌ",
+        "arabic_plain": "ستة",
+        "translation": "enam",
+        "root": "س-ت-ت",
+        "category": "ism",
+        "subcategory": "ism_adad",
+        "source": "safinatun_najah_2"
+    },
+    {
+        "word_id": "v-015",
+        "arabic": "مَلَائِكَتِهِ",
+        "arabic_plain": "ملائكته",
+        "translation": "malaikat-malaikat-Nya",
+        "root": "م-ل-ك",
+        "category": "ism",
+        "subcategory": "ism_jamak",
+        "source": "safinatun_najah_2"
+    },
+    {
+        "word_id": "v-016",
+        "arabic": "كُتُبِهِ",
+        "arabic_plain": "كتبه",
+        "translation": "kitab-kitab-Nya",
+        "root": "ك-ت-ب",
+        "category": "ism",
+        "subcategory": "ism_jamak",
+        "source": "safinatun_najah_2"
+    },
+    {
+        "word_id": "v-017",
+        "arabic": "رُسُلِهِ",
+        "arabic_plain": "رسله",
+        "translation": "rasul-rasul-Nya",
+        "root": "ر-س-ل",
+        "category": "ism",
+        "subcategory": "ism_jamak",
+        "source": "safinatun_najah_2"
+    },
+    {
+        "word_id": "v-018",
+        "arabic": "الْيَوْمِ",
+        "arabic_plain": "اليوم",
+        "translation": "hari",
+        "root": "ي-و-م",
+        "category": "ism",
+        "subcategory": "ism_ma'rifah",
+        "source": "safinatun_najah_2"
+    },
+    {
+        "word_id": "v-019",
+        "arabic": "الْآخِرِ",
+        "arabic_plain": "الاخر",
+        "translation": "akhir/akhirat",
+        "root": "أ-خ-ر",
+        "category": "ism",
+        "subcategory": "ism_sifat",
+        "source": "safinatun_najah_2"
+    },
+    {
+        "word_id": "v-020",
+        "arabic": "الْقَدَرِ",
+        "arabic_plain": "القدر",
+        "translation": "takdir",
+        "root": "ق-د-ر",
+        "category": "ism",
+        "subcategory": "mashdar",
+        "source": "safinatun_najah_2"
+    },
+    {
+        "word_id": "v-021",
+        "arabic": "خَيْرِهِ",
+        "arabic_plain": "خيره",
+        "translation": "kebaikannya",
+        "root": "خ-ي-ر",
+        "category": "ism",
+        "subcategory": "ism_mufrad",
+        "source": "safinatun_najah_2"
+    },
+    {
+        "word_id": "v-022",
+        "arabic": "شَرِّهِ",
+        "arabic_plain": "شره",
+        "translation": "keburukannya",
+        "root": "ش-ر-ر",
+        "category": "ism",
+        "subcategory": "ism_mufrad",
+        "source": "safinatun_najah_2"
+    },
+    {
+        "word_id": "v-023",
+        "arabic": "تُؤْمِنَ",
+        "arabic_plain": "تؤمن",
+        "translation": "kamu beriman",
+        "root": "أ-م-ن",
+        "category": "fiil",
+        "subcategory": "fiil_mudhari",
+        "source": "safinatun_najah_2"
+    },
+    {
+        "word_id": "v-024",
+        "arabic": "تَعَالَى",
+        "arabic_plain": "تعالى",
+        "translation": "Yang Maha Tinggi",
+        "root": "ع-ل-و",
+        "category": "fiil",
+        "subcategory": "fiil_madhi",
+        "source": "safinatun_najah_2"
+    },
+    {
+        "word_id": "v-025",
+        "arabic": "وَ",
+        "arabic_plain": "و",
+        "translation": "dan",
+        "root": "-",
+        "category": "harf",
+        "subcategory": "harf_athaf",
+        "source": "common"
+    },
+    {
+        "word_id": "v-026",
+        "arabic": "بِ",
+        "arabic_plain": "ب",
+        "translation": "dengan/kepada",
+        "root": "-",
+        "category": "harf",
+        "subcategory": "harf_jar",
+        "source": "common"
+    },
+    {
+        "word_id": "v-027",
+        "arabic": "مِنْ",
+        "arabic_plain": "من",
+        "translation": "dari",
+        "root": "-",
+        "category": "harf",
+        "subcategory": "harf_jar",
+        "source": "common"
+    },
+    {
+        "word_id": "v-028",
+        "arabic": "أَنْ",
+        "arabic_plain": "ان",
+        "translation": "bahwa",
+        "root": "-",
+        "category": "harf",
+        "subcategory": "harf_mashdariyah",
+        "source": "common"
+    },
+    {
+        "word_id": "v-029",
+        "arabic": "لَا",
+        "arabic_plain": "لا",
+        "translation": "tidak/tiada",
+        "root": "-",
+        "category": "harf",
+        "subcategory": "harf_nafi",
+        "source": "common"
+    },
+    {
+        "word_id": "v-030",
+        "arabic": "إِلَّا",
+        "arabic_plain": "الا",
+        "translation": "kecuali",
+        "root": "-",
+        "category": "harf",
+        "subcategory": "harf_istitsna",
+        "source": "common"
+    }
+]
