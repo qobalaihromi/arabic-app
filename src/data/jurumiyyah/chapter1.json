@@ -1,0 +1,81 @@
+{
+    "id": "jurumiyyah-1",
+    "title": "Pengenalan Kalam",
+    "titleAr": "أَنْوَاعُ الْكَلَامِ",
+    "description": "Definisi Kalam dan pembagiannya dalam bahasa Arab",
+    "order": 1,
+    "isLocked": false,
+    "xpReward": 50,
+    "lessons": [
+        {
+            "id": "l-01-01",
+            "type": "text",
+            "content": "Kalam (Kalimat Sempurna) menurut ulama Nahwu adalah: Lafadz yang tersusun, berfaedah (memberikan pemahaman), dan disengaja (dengan bahasa Arab)."
+        },
+        {
+            "id": "l-01-02",
+            "type": "example",
+            "content": "Contoh Kalam yang sempurna:",
+            "arabicText": "زَيْدٌ قَائِمٌ",
+            "translation": "Zaid sedang berdiri"
+        },
+        {
+            "id": "l-01-03",
+            "type": "text",
+            "content": "Kalam terbagi menjadi 3 bagian: Isim (Kata Benda), Fi'il (Kata Kerja), dan Harf (Huruf yang memiliki arti)."
+        },
+        {
+            "id": "l-01-04",
+            "type": "table",
+            "content": "| Jenis | Definisi | Contoh |\n|---|---|---|\n| **Isim** | Kata benda, nama | كِتَابٌ (Buku) |\n| **Fi'il** | Kata kerja (lampau, sekarang, perintah) | يَقْرَأُ (Membaca) |\n| **Harf** | Kata tugas / partikel | فِي (Di dalam) |"
+        }
+    ],
+    "quiz": [
+        {
+            "id": "q-01-01",
+            "type": "multiple-choice",
+            "question": "Apa itu Kalam menurut ilmu Nahwu?",
+            "options": [
+                {
+                    "id": "opt-1",
+                    "text": "Setiap perkataan manusia",
+                    "isCorrect": false
+                },
+                {
+                    "id": "opt-2",
+                    "text": "Lafadz yang tersusun dan berfaedah",
+                    "isCorrect": true
+                },
+                {
+                    "id": "opt-3",
+                    "text": "Tulisan dalam bahasa Arab",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": "Kalam harus memenuhi syarat: Lafadz, Murakkab (tersusun), Mufid (berfaedah), dan Wadha' (disengaja)."
+        },
+        {
+            "id": "q-01-02",
+            "type": "multiple-choice",
+            "question": "Kata 'مَدْرَسَةٌ' (Sekolah) termasuk jenis kata apa?",
+            "options": [
+                {
+                    "id": "opt-1",
+                    "text": "Isim",
+                    "isCorrect": true
+                },
+                {
+                    "id": "opt-2",
+                    "text": "Fi'il",
+                    "isCorrect": false
+                },
+                {
+                    "id": "opt-3",
+                    "text": "Harf",
+                    "isCorrect": false
+                }
+            ],
+            "explanation": "Madrasah adalah nama tempat/benda, sehingga termasuk Isim."
+        }
+    ]
+}
